@@ -9,8 +9,8 @@ A tool to profile a person using Have I Been Pwned.
 ## Usage
 
 ```bash
-# git clone repo
-# cd repo
+# git clone git@github.com:AlicanC/hibp-profiler.git
+# cd hibp-profiler
 yarn
 yarn start
 ```
