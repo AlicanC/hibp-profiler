@@ -11,5 +11,6 @@ A tool to profile a person using Have I Been Pwned.
 ```bash
 # git clone repo
 # cd repo
+yarn
 yarn start
 ```
